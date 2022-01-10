@@ -8,5 +8,5 @@ server.use(bodyParser.urlencoded({ express: true }))
 server.use(bodyParser.json())
 
 server.listen(port, function () {
-  console.log(`BACKEND in running on port ${port}.`)
+  // console.log(`BACKEND in running on port ${port}.`)
 })
