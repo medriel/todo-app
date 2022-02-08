@@ -8,6 +8,7 @@ A aplicação permite ao usuário cadastrar suas tarefas, editar e marcar como c
 
  - JavaScript <img align="center" alt="Adriel-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
  - React <img align="center" alt="Adriel-React" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+ - Redux <img align="center" alt="Adriel-Redux" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
  - Node.js <img align="center" alt="Adriel-Node" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
  - Express <img align="center" alt="Adriel-Express" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
  - MongoDB  <img align="center" alt="Adriel-MongoDB" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
