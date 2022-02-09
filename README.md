@@ -4,7 +4,7 @@ Desenvolvendo uma aplicação para controle de tarefas, com o objetivo de pratic
 
 A aplicação permite ao usuário cadastrar suas tarefas, editar e marcar como concluida. Além de contar com um mecanismo de busca em suas tarefas via palavras chaves, ou descrição completa. 
 
-Mesmo se tratando de uma aplicação relativamente pequena e simples, que não justifica a utilização da tecnologia Redux, o mesmo foi utilizado como forma de praticar o conhecimento teórico adquirido durante o curso. 
+Mesmo se tratando de uma aplicação relativamente pequena e simples, que não justifica a utilização da tecnologia Redux, a mesma foi utilizado como forma de praticar o conhecimento teórico adquirido durante o curso. 
 
 ## Tecnologias utilizadas 
 
